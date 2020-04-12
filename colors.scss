@@ -1,0 +1,12 @@
+$gray:#675f5c;
+$lightgray:#dbdad8;
+$lightorange:#eebaa2;
+$orange:#fc7233;
+%agdanboza {
+    background: rgb(255, 254, 253);
+    background: radial-gradient(circle, rgba(255, 254, 253, 1) 0%, rgba(227, 227, 227, 1) 100%);
+}
+%agdanacigorange {
+    background: rgb(254, 219, 204);
+    background: radial-gradient(circle, rgba(254, 219, 204, 1) 0%, rgba(238, 186, 162, 1) 100%);
+}
