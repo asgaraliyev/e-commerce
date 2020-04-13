@@ -173,13 +173,12 @@ nav .header .parts .middle .search-bar span {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 10px 31px 10px 16px;
 }
 
 nav .header .parts .middle .search-bar span img {
   height: 75%;
   position: relative;
-  margin: 0px 10px;
+  margin: 0px 0px 0px 23px;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
           transform: translate(0%, -50%);
@@ -194,9 +193,10 @@ nav .header .parts .middle .search-bar span button {
   border: none;
   outline: none;
   color: white;
-  font-size: calc(calc(75% * 0.778) * 2);
+  font-size: 100%;
   font-weight: bolder;
   text-transform: capitalize;
+  margin: 0px 25px 0px 0px;
 }
 
 nav .header .parts .middle .search-bar input {

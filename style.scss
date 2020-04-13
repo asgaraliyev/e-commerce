@@ -117,7 +117,7 @@ nav {
 
                             height: 75%;
                             position: relative;
-                            margin: 0px 10px;
+                            margin: 0px 0px 0px 23px ;
                             top: 50%;
                             transform: translate(0%, -50%);
                            
@@ -134,7 +134,7 @@ nav {
                         justify-content: space-around;
                         display: flex;
                       
-                        padding: 10px 31px 10px 16px;
+                       
                         button {
                             position: relative;
                             top: 50%;
@@ -143,9 +143,10 @@ nav {
                             border: none;
                             outline: none;
                             color: white;
-                            font-size:calc(#{$searchbarheight} * 2);
+                            font-size:100%;
                             font-weight: bolder;
                             text-transform: capitalize;
+                            margin: 0px 25px 0px 0px ;
                         }
                     }
 
