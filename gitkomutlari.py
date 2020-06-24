@@ -20,4 +20,6 @@ git remote add origin "repository linki"
 # remote elave etme
 git remote -v
 # remote u test etme
+git checkout HEAD~ -- static/img/universities
+# istenilen pathi geri qayatiri evvelki commitden
 
