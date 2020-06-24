@@ -22,4 +22,6 @@ git remote -v
 # remote u test etme
 git checkout HEAD~ -- static/img/universities
 # istenilen pathi geri qayatiri evvelki commitden
+git checkout a8684616ee7ece95d99d86ac5a744c55b910fefa  -- templates/head.html
+# istenilen pathi geri qayatiri istenilen commitden
 
